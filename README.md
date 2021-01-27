@@ -29,21 +29,19 @@ __Очень важно:__ Категорически запрещено пол�
 
 ## Материалы семинаров:
 *Семинар 1-2.* Numpy + Python reminder.
-* [Ноутбук с семинара по Numpy](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar_numpy.ipynb)
-* [Ноутбук с семинара по Python](https://github.com/nadiinchi/iad2020/blob/master/materials/Seminar%20Python.ipynb)
-* [Задание по python](https://github.com/nadiinchi/iad2020/blob/master/materials/sem1_python.ipynb)
+* [Ноутбук с семинара по Numpy и Matplotlib](https://github.com/nadiinchi/iad2021/blob/main/materials/Numpy%202021.ipynb)
 * [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
 ## Полезные ссылки
-* [Книга Machine Learning in Python](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
+* [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
-* [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
 * [Лекции Andrew Ng на coursera.org](https://www.coursera.org/learn/machine-learning): практические задания на языке MATLAB/Octave
 * [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning)
 * [https://www.dataquest.io](https://www.dataquest.io): сайт с интерактивными заданиями по Python для анализа данных
 * [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+* [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 
 За прохождение курсов на coursera.org не обязательно платить: можно попросить материальную помощь или воспользоваться подпиской университета (для курсов университета).
 
