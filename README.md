@@ -41,6 +41,11 @@ __Очень важно:__ Категорически запрещено пол�
 * [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
 * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
+*Семинар 4.* kNN, Scikit-learn.
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/Sklearn_2021.ipynb)
+* [Документация sklearn](http://scikit-learn.org/stable/index.html)
+* [Ноутбук Евгения Ковалева про kNN](https://github.com/nadiinchi/iad2020/blob/master/materials/sem05_knn.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
