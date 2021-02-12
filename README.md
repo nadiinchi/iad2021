@@ -43,6 +43,7 @@ __Очень важно:__ Категорически запрещено пол�
 
 *Семинар 4.* kNN, Scikit-learn.
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/Sklearn_2021.ipynb)
+* [Конспект семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/knn.pdf)
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 * [Ноутбук Евгения Ковалева про kNN](https://github.com/nadiinchi/iad2020/blob/master/materials/sem05_knn.ipynb)
 
