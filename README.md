@@ -47,6 +47,10 @@ __Очень важно:__ Категорически запрещено пол�
 * [Документация sklearn](http://scikit-learn.org/stable/index.html)
 * [Ноутбук Евгения Ковалева про kNN](https://github.com/nadiinchi/iad2020/blob/master/materials/sem05_knn.ipynb)
 
+*Семинар 5.* Классы в Python и продолжение Scikit-learn
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/Classes.ipynb)
+* * [Ноутбук про классы и sklearn - конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
