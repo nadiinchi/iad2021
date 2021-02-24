@@ -51,6 +51,11 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/Classes.ipynb)
 * [Ноутбук про классы и sklearn - конспект семинара](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
 
+*Семинар 6.* Линейная регрессия
+* [Записи с доски](https://github.com/nadiinchi/iad2021/blob/main/materials/Whiteboard%5B3%5D.pdf)
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/LinReg.ipynb)
+* [Задачи](https://github.com/nadiinchi/iad2021/blob/main/materials/Whiteboard%5B3%5D.pdf)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
