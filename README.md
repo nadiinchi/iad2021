@@ -57,6 +57,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/LinReg.ipynb)
 * [Задачи](https://github.com/nadiinchi/iad2021/blob/main/materials/Whiteboard%5B3%5D.pdf)
 
+*Семинар 7.* Трехмерная геометрия и градиентный спуск
+* [Ноутбук для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads_students.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
