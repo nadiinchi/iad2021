@@ -61,6 +61,10 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads_students.ipynb)
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads.ipynb)
 
+*Семинар 8.* Метрики качества бинарной классификации
+* [Конспект семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/metrics.ipynb)
+* [Ноутбук с ROC-кривой и PR-кривой](https://github.com/nadiinchi/iad2021/blob/main/materials/ROC_PR_curves.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
