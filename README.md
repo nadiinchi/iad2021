@@ -65,6 +65,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Конспект семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/metrics.ipynb)
 * [Ноутбук с ROC-кривой и PR-кривой](https://github.com/nadiinchi/iad2021/blob/main/materials/ROC_PR_curves.ipynb)
 
+*Семинар 9.* Линейная классификация
+* [Небольшое практическое задание](https://github.com/nadiinchi/iad2021/blob/main/materials/ROC_PR_curves_continued_small_task.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
