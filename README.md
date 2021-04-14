@@ -73,6 +73,11 @@ __Очень важно:__ Категорически запрещено пол�
 * [Конспект с заданием](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_students.ipynb)
 * [Конспект с решением](https://github.com/nadiinchi/iad2020/blob/master/materials/sem_texts_solution.ipynb)
 
+*Семинар 11. * Многоклассовая линейная классификация
+
+*Семинар 12. * Решающие деревья
+* [Практическое задание](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students1.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
