@@ -82,6 +82,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Конспект семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/trees.pdf)
 * [Практическое задание](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students1.ipynb)
 
+*Семинар 13. * Композиции алгоритмов: блендинг, бэггинг, случайный лес
+* [Практическое задание](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students2.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
